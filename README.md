@@ -1,6 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HugoTkBCN)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTkBCN&hide=c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HugoTkBCN&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTkBCN&hide=c&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoTkBCN&repo=My_Resume)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoTkBCN&repo=Epicture)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoTkBCN&repo=Bazel_Python_Docker)](https://github.com/anuraghazra/github-readme-stats)
