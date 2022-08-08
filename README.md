@@ -1,5 +1,5 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HugoTkBCN&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTkBCN&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoTkBCN&repo=My_Resume)](https://github.com/HugoTkBCN/My_Resume)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoTkBCN&repo=Epicture)](https://github.com/Hacking-Web3/poster-with-purpose)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hacking-Web3&repo=poster-with-purpose)](https://github.com/Hacking-Web3/poster-with-purpose)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HugoTkBCN&repo=Bazel_Python_Docker)](https://github.com/HugoTkBCN/Bazel_Python_Docker)
